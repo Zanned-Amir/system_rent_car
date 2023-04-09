@@ -1,2 +1,0 @@
-1,monir,kia_rio,456879,3,240
-1,amir,kia_rio,456789,3,12
