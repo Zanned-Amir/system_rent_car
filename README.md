@@ -30,4 +30,6 @@ To use the system, please select an option from the menu:
 Note
 Every time you exit the program, the system will store all the information entered into the system.
 
+Contributors 
+Amir Zanned
 
